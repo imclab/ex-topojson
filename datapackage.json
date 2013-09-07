@@ -15,7 +15,7 @@
       "url": "https://github.com/mbostock/topojson/raw/master/examples/us-10m.json",
       "name": "us-10m",
       "format": "topojson",
-      "mimetype": "application/json",
+      "mediatype": "application/json",
       "description": "US 1:10m topojson"
     }
   ]
